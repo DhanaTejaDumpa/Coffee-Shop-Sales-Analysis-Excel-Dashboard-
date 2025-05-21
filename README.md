@@ -32,7 +32,7 @@ The coffee shop team wanted insights into:
 - Some employees outperformed significantly — great for recognition  
 - **Takeaway orders** showed consistent growth
 
-✅ Strategic Recommendations:
+## ✅ Strategic Recommendations:
 - 📅 Increase staffing during peak hours (8–10 AM, 4–6 PM) and high-sales days (Fridays, weekends).
 - 🌟 Reward high-performing employees; assign them key shifts or leadership roles.
 - ☕ Promote top-selling items (Espresso, Cappuccino) with bundles, loyalty programs, or seasonal deals.
